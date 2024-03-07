@@ -1,0 +1,3 @@
+apprenant1,etudiant1,0
+fanta2,tine2,1
+username3,password3,0
